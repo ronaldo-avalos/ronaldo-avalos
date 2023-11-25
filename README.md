@@ -1,12 +1,12 @@
 ```diff
 
 class AboutMe {
-    val firstName = "Ronaldo"
-    val lastName = "Avalos"
-    val linkedin = "https://www.linkedin.com/in/ronaldoavalos/"
--   val yearsOfExperience = 0
-+   val yearsOfExperience = .6
-    val role = "Android Engineer"
+    let firstName = "Ronaldo"
+    let lastName = "Avalos"
+    let linkedin = "https://www.linkedin.com/in/ronaldoavalos/"
+-   var yearsOfExperience = 0
++       yearsOfExperience = .6
+    let role = "Mobile developer"
 }
 
 ```
