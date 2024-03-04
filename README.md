@@ -5,7 +5,7 @@ class AboutMe {
     let lastName = "Avalos"
     let linkedin = "https://www.linkedin.com/in/ronaldoavalos/"
 -   var yearsOfExperience = 0
-+       yearsOfExperience = .6
++       yearsOfExperience = 1
     let role = "Mobile developer"
 }
 
