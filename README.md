@@ -1,6 +1,6 @@
 ```diff
 
-class AboutMe {
+struct AboutMe {
     let firstName = "Ronaldo"
     let lastName = "Avalos"
     let linkedin = "https://www.linkedin.com/in/ronaldoavalos/"
