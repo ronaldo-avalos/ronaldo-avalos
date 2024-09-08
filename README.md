@@ -6,7 +6,7 @@ struct AboutMe {
     let linkedin = "https://www.linkedin.com/in/ronaldoavalos/"
 -   var yearsOfExperience = 0
 +       yearsOfExperience = 1
-    let role = "Mobile developer"
+    let role = "iOS Developer"
 }
 
 ```
