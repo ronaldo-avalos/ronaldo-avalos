@@ -4,8 +4,8 @@ struct AboutMe {
     let firstName = "Ronaldo"
     let lastName = "Avalos"
     let linkedin = "https://www.linkedin.com/in/ronaldoavalos/"
--   var yearsOfExperience = 1
-+       yearsOfExperience = 2
+-   var yearsOfExperience = 2
++       yearsOfExperience = 3
     let role = "iOS Developer"
 }
 
