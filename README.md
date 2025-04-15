@@ -1,6 +1,3 @@
-
-## 🧑🏻‍💻 I'm Ronaldo avalos. i build things. sometimes i share them.  
-
 I’m a design engineer currently specializing in Swift, with experience in Kotlin. I strive to make my work clean and
 visually appealing, without neglecting functionality. Along the way, I develop tools, libraries, or components to
 solve recurring problems, which I share with the community when useful.
