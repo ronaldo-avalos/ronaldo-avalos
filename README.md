@@ -11,8 +11,8 @@ solve recurring problems, which I share with the community when useful.
 ```diff
 
 struct Experience {
--   var yearsOfExperience = 1
-+       yearsOfExperience = 2
+-   var yearsOfExperience = 2
++       yearsOfExperience = 3
     let role = "iOS Developer"
 }
 
