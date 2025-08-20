@@ -1,4 +1,4 @@
-I’m a design engineer currently specializing in Swift, with experience in Kotlin. I strive to make my work clean and
+I’m a design engineer currently specializing in Kotlin, with experience in Swift. I strive to make my work clean and
 visually appealing, without neglecting functionality. Along the way, I develop tools, libraries, or components to
 solve recurring problems, which I share with the community when useful.
 
@@ -10,10 +10,10 @@ solve recurring problems, which I share with the community when useful.
 
 ```diff
 
-struct Experience {
--   var yearsOfExperience = 2
+Class Experience {
+-   val yearsOfExperience = 2
 +       yearsOfExperience = 3
-    let role = "iOS Developer"
+    val role = "Mobile Developer"
 }
 
 ```
