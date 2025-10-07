@@ -11,8 +11,8 @@ solve recurring problems, which I share with the community when useful.
 ```diff
 
 Class Experience {
--   val yearsOfExperience = 2
-+       yearsOfExperience = 3
+-   val yearsOfExperience = 3
++       yearsOfExperience = 4
     val role = "Mobile Developer"
 }
 
