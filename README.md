@@ -7,7 +7,7 @@ solve recurring problems, which I share with the community when useful.
 - <a href="https://github.com/ronaldo-avalos/SpotifyVieoPlayer"> SpotifyVieoPlayer </a> - A SwiftUI-based music player replicating Spotify's video playback experience, featuring background videos.
 - <a href="https://github.com/ronaldo-avalos/AvatarAiPayWall"> AvatarAiPayWall </a> - A beautifully designed paywall screen built with SwiftUI as a practice project. Inspired by modern subscription flows, this paywall offers a seamless user experience with animated elements.
 
-
+<!--
 ```diff
 
 Class Experience {
@@ -17,5 +17,5 @@ Class Experience {
 }
 
 ```
-<!--
+
 **ronaldo-avalos/ronaldo-avalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
