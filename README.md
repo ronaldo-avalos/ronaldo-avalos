@@ -1,4 +1,4 @@
-I'm a mobile developer with 3.5 years of experience building for Android and iOS with **Kotlin** and **Swift**. I care deeply about product design — crafting experiences that feel clean, polished, and intentional, without ever sacrificing functionality. Along the way I build tools, libraries, and components to solve recurring problems, and I share the useful ones as open source for the community.
+I'm a mobile developer with 4 years of experience building for Android and iOS with **Kotlin** and **Swift**. I care deeply about product design — crafting experiences that feel clean, polished, and intentional, without ever sacrificing functionality. Along the way I build tools, libraries, and components to solve recurring problems, and I share the useful ones as open source for the community.
 
 ### 🖥️ 📱 ▶️ Latest project
 - <a href="https://github.com/ronaldo-avalos/Maya">Maya</a> – Wrap your iPhone screen recordings in a beautiful device frame, add cinematic zoom moments, and export ready-to-share videos.
